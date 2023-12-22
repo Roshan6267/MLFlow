@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/urosh/mlflow/mlruns/0/8d51e2a46b254a15ba767271ee0680bc/artifacts
+end_time: 1703055173244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d51e2a46b254a15ba767271ee0680bc
+run_name: incongruous-dog-680
+run_uuid: 8d51e2a46b254a15ba767271ee0680bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703055173208
+status: 3
+tags: []
+user_id: urosh

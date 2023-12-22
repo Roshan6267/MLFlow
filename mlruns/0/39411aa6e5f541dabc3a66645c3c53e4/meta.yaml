@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/urosh/mlflow/mlruns/0/39411aa6e5f541dabc3a66645c3c53e4/artifacts
+end_time: 1703251656469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39411aa6e5f541dabc3a66645c3c53e4
+run_name: rumbling-cat-996
+run_uuid: 39411aa6e5f541dabc3a66645c3c53e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703251652214
+status: 3
+tags: []
+user_id: urosh

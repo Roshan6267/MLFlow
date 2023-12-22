@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/urosh/mlflow/mlruns/0/bcbbf011bb2640e096b457b06c541207/artifacts
+end_time: 1703251783169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcbbf011bb2640e096b457b06c541207
+run_name: capable-midge-950
+run_uuid: bcbbf011bb2640e096b457b06c541207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703251778110
+status: 3
+tags: []
+user_id: urosh

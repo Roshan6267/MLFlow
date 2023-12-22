@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/urosh/mlflow/mlruns/0/34e41ab91e75488b850b18bb5f141840/artifacts
+end_time: 1703251726525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34e41ab91e75488b850b18bb5f141840
+run_name: honorable-bat-284
+run_uuid: 34e41ab91e75488b850b18bb5f141840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703251722119
+status: 3
+tags: []
+user_id: urosh

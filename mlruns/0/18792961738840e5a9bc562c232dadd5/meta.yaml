@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/urosh/mlflow/mlruns/0/18792961738840e5a9bc562c232dadd5/artifacts
+end_time: 1703251772722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18792961738840e5a9bc562c232dadd5
+run_name: marvelous-fowl-25
+run_uuid: 18792961738840e5a9bc562c232dadd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703251767704
+status: 3
+tags: []
+user_id: urosh

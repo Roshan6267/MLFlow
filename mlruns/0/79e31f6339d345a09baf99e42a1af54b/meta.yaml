@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/urosh/mlflow/mlruns/0/79e31f6339d345a09baf99e42a1af54b/artifacts
+end_time: 1703251240289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79e31f6339d345a09baf99e42a1af54b
+run_name: wistful-pug-234
+run_uuid: 79e31f6339d345a09baf99e42a1af54b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703251236512
+status: 3
+tags: []
+user_id: urosh

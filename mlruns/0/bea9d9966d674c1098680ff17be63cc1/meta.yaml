@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/urosh/mlflow/mlruns/0/bea9d9966d674c1098680ff17be63cc1/artifacts
+end_time: 1703251744473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bea9d9966d674c1098680ff17be63cc1
+run_name: skillful-wolf-536
+run_uuid: bea9d9966d674c1098680ff17be63cc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703251740227
+status: 3
+tags: []
+user_id: urosh

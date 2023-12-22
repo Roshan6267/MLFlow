@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/urosh/mlflow/mlruns/0/0756dbc520d24b9ba492b11d2a2c7a44/artifacts
+end_time: 1703251792511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0756dbc520d24b9ba492b11d2a2c7a44
+run_name: adaptable-quail-704
+run_uuid: 0756dbc520d24b9ba492b11d2a2c7a44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703251788253
+status: 3
+tags: []
+user_id: urosh

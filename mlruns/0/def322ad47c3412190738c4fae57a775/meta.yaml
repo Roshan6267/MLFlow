@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/urosh/mlflow/mlruns/0/def322ad47c3412190738c4fae57a775/artifacts
+end_time: 1703251693646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: def322ad47c3412190738c4fae57a775
+run_name: amusing-shark-579
+run_uuid: def322ad47c3412190738c4fae57a775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703251689608
+status: 3
+tags: []
+user_id: urosh

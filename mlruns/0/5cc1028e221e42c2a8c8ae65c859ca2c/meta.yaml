@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/urosh/mlflow/mlruns/0/5cc1028e221e42c2a8c8ae65c859ca2c/artifacts
+end_time: 1703251597372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cc1028e221e42c2a8c8ae65c859ca2c
+run_name: debonair-auk-441
+run_uuid: 5cc1028e221e42c2a8c8ae65c859ca2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703251593249
+status: 3
+tags: []
+user_id: urosh

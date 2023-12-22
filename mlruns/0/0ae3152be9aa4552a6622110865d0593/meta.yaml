@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/urosh/mlflow/mlruns/0/0ae3152be9aa4552a6622110865d0593/artifacts
+end_time: 1703251606153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ae3152be9aa4552a6622110865d0593
+run_name: shivering-donkey-388
+run_uuid: 0ae3152be9aa4552a6622110865d0593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703251601752
+status: 3
+tags: []
+user_id: urosh

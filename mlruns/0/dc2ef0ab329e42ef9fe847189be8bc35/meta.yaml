@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/urosh/mlflow/mlruns/0/dc2ef0ab329e42ef9fe847189be8bc35/artifacts
+end_time: 1703251717166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc2ef0ab329e42ef9fe847189be8bc35
+run_name: intelligent-snail-66
+run_uuid: dc2ef0ab329e42ef9fe847189be8bc35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703251712366
+status: 3
+tags: []
+user_id: urosh

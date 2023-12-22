@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/urosh/mlflow/mlruns/0/d05e4b45e1cc431680922f623db9fddd/artifacts
+end_time: 1703251639582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d05e4b45e1cc431680922f623db9fddd
+run_name: glamorous-crab-87
+run_uuid: d05e4b45e1cc431680922f623db9fddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703251635736
+status: 3
+tags: []
+user_id: urosh
